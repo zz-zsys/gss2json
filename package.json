@@ -1,5 +1,6 @@
 {
   "name": "gss2json",
+  "author": "Nick Moreton",
   "version": "1.0.0",
   "description": "Google Spreadsheet to JSON API app",
   "main": "app.js",
