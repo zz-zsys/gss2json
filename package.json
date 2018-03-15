@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Google Spreadsheet to JSON API app",
   "main": "app.js",
-  "scripts" : {
+  "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
