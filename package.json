@@ -1,27 +1,13 @@
 {
-  "name": "gss2json",
+  "name": "gsx2json",
   "version": "1.0.0",
-  "description": "",
+  "description": "Google Spreadsheet to JSON API app",
   "main": "app.js",
+  "author": "Nick Moreton",
   "dependencies": {
-    "express": "^4.16.3",
-    "path": "^0.12.7",
-    "request": "^2.85.0",
-    "touch": "^3.1.0"
+    "body-parser": "^1.x.x",
+    "express": "^4.x.x",
+    "request": "^2.85.0"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zubairzulkifli/gss2json.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zubairzulkifli/gss2json/issues"
-  },
-  "homepage": "https://github.com/zubairzulkifli/gss2json#readme"
+  "license": "ISC"
 }

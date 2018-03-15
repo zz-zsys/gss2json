@@ -1,5 +1,5 @@
 {
-  "name": "gss2json",
+  "name": "gsx2json",
   "scripts": {
         "start": "node index.js"
    },
