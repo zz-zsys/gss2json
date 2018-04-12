@@ -28,5 +28,5 @@ app.use(function(err, req, res, next) {
 });
 
 app.listen(port, function() {
-  console.log('GSX2JSON listening on port ' + port);
+  console.log('GSS2JSON listening on port ' + port);
 });
